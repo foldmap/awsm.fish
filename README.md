@@ -30,6 +30,7 @@ Welcome to the ultimate treasure trove of handpicked plugins, prompts, and other
 - [Tide](https://github.com/IlanCosman/tide) - A modern prompt manager for Fish
 - [Pure](https://github.com/pure-fish/pure/) - [_That_](https://github.com/sindresorhus/pure) ZSH prompt, now in Fish flavor
 - [Hydro](https://github.com/jorgebucaran/hydro) - Lag-free prompt with async Git status (ooh la la)
+- [Stellar](https://github.com/ilan-schemoul/stellar-fish-prompt) - A minimalistic yet feature rich fish prompt with async Git status
 
 ## Plugins
 
